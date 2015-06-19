@@ -3,8 +3,8 @@
 
 ## Release 1.0
 
-* [ ] Project scaffolding with RSPEC
-* [ ] Sign up / Sign in / Sign out
+* [x] Project scaffolding with RSPEC
+* [x] Sign up / Sign in / Sign out
 * [ ] Post a picture
 * [ ] List of all pictures
 * [ ] Comment on pictures
